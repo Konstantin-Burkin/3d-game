@@ -1,0 +1,12 @@
+/* src/app/globals.css */
+body, html, #__next {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+  background: black;
+}
+
+canvas {
+  display: block;
+}
